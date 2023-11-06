@@ -1,7 +1,7 @@
 ## 🌌 Levi Carlos 
 
 ### Student of Tecnology
-#### Entusiasta de programação em crescimento. Aos 17 anos, mergulhando no mundo do código, buscando aprendizado constante e colaboração. Compartilhando meus projetos e evoluindo passo a passo. Empolgado para explorar novas possibilidades na programação!
+Growing programming enthusiast. At 17 years old, diving into the world of code, seeking constant learning and collaboration. Sharing my projects and evolving step by step. Excited to explore new possibilities in programming!
 ###
 
 [![Instagram Badge](https://img.shields.io/badge/olevicarlos-543DE0?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/olevicarlos) 
