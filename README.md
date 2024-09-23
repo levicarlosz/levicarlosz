@@ -1,5 +1,4 @@
 ## Hey, I'm Levi Carlos! 👋
-
 ### Student of Tecnology
 Growing programming enthusiast. At 17 years old, diving into the world of code, seeking constant learning and collaboration. Sharing my projects and evolving step by step. Excited to explore new possibilities in programming!
 ###
