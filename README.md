@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,angular,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,nodejs,nextjs,react,angular,figma&theme=dark)](https://skillicons.dev)
 ### Hey, I'm Levi Carlos! 👋
 Growing programming enthusiast. At 17 years old, diving into the world of code, seeking constant learning and collaboration. Sharing my projects and evolving step by step. Excited to explore new possibilities in programming, focused on TypesScript, Node.js, ReactJS, NextJS, Angular, C#.
 
