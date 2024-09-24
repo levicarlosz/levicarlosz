@@ -8,5 +8,5 @@ Growing programming enthusiast. At 17 years old, diving into the world of code, 
 
 ### Connect With Me 🤝
 [![Instagram Badge](https://img.shields.io/badge/olevicarlos-121d2f?style=flat-square&logo=instagram&logoColor=1f6feb)](https://instagram.com/olevicarlos) 
-[![Linkedin Badge](https://img.shields.io/badge/-Levi%20Carlos-121d2f?style=flat-square&logo=Linkedin&logoColor=1f6feb&link=https://www.linkedin.com/in/olevicarlos/)](https://www.linkedin.com/in/olevicarlos/) 
+[![Linkedin Badge](https://img.shields.io/badge/-olevicarlos-121d2f?style=flat-square&logo=Linkedin&logoColor=1f6feb&link=https://www.linkedin.com/in/olevicarlos/)](https://www.linkedin.com/in/olevicarlos/) 
 [![Gmail Badge](https://img.shields.io/badge/-olevicarlos@gmail.com-121d2f?style=flat-square&logo=Gmail&logoColor=1f6feb&link=mailto:olevicarlos@gmail.com)](mailto:olevicarlos@gmail.com)
