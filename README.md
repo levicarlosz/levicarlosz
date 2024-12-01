@@ -1,4 +1,4 @@
-
+![alt text](https://media.licdn.com/dms/image/v2/D4D16AQHv3rD3ll1xOQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727873364838?e=1738800000&v=beta&t=Qv4TlaYMs9ZGsEf1_L0MtBRxRx3aIlEJYqIQuXoQxdM)
 ### Hey, I'm Levi Carlos! 👋
 Growing programming enthusiast. At 17 years old, diving into the world of code, seeking constant learning and collaboration. Sharing my projects and evolving step by step. Excited to explore new possibilities in programming, focused on Python, Typescript, Angular.
 
