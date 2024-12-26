@@ -3,7 +3,7 @@
 Growing programming enthusiast. At 17 years old, diving into the world of code, seeking constant learning and collaboration. Sharing my projects and evolving step by step. Excited to explore new possibilities in programming, focused on Python, Typescript, Angular.
 
 ### Tech Skills 👩‍💻
-[![My Skills](https://skillicons.dev/icons?i=figma,python,angular,javascript,typescript,css,html&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,python,react,nodejs,javascript,typescript,css,html&theme=dark)](https://skillicons.dev)
 
 
 ### Connect With Me 🤝
