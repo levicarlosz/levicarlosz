@@ -1,6 +1,6 @@
 ![alt text](https://media.licdn.com/dms/image/v2/D4D16AQHv3rD3ll1xOQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727873364838?e=1738800000&v=beta&t=Qv4TlaYMs9ZGsEf1_L0MtBRxRx3aIlEJYqIQuXoQxdM)
 ### Hey, I'm Levi Carlos! 👋
-Growing programming enthusiast. At 17 years old, diving into the world of code, seeking constant learning and collaboration. Sharing my projects and evolving step by step. Excited to explore new possibilities in programming, focused on Python, Typescript, Angular.
+I have been a programming enthusiast since I was 17, and currently, at 19, I am studying Systems Analysis and Development at UDF. I have always had a passion for technology, and I am deepening my knowledge in Angular and Java to expand my skills in development. Additionally, I have a strong interest in cybersecurity. I am looking for opportunities that allow me to learn, grow, and contribute in a meaningful way.
 
 ### Tech Skills 👩‍💻
 [![My Skills](https://skillicons.dev/icons?i=figma,python,javascript,css,html&theme=dark)](https://skillicons.dev)
