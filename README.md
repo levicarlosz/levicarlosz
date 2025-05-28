@@ -95,11 +95,21 @@ Aqui estão algumas das tecnologias e conceitos com os quais trabalho e estudo, 
 
 ## 📊 Minhas Estatísticas do GitHub
 
+Aqui estão algumas estatísticas do meu perfil e atividades no GitHub:
+
+
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=levicarlosz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levicarlosz&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=levicarlosz&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats de Levi Carlos (levicarlosz)"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=levicarlosz&theme=dracula&column=7&margin-w=15&margin-h=15&no-frame=true" alt="Troféus do GitHub de Levi Carlos (levicarlosz)"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=levicarlosz&label=Visualizações%20do%20Perfil&color=blueviolet&style=flat-square" alt="Contador de Visualizações do Perfil de Levi Carlos (levicarlosz)"/>
+</p>
 ---
 
 ## 🎯 Próximos Passos & Colaboração
