@@ -1,6 +1,6 @@
 
 
-## 😎: Sobre Mim
+## 😎 Sobre Mim
 
 👋 Sou Levi Carlos, estudante de **Segurança da Informação (UNICSUL – 2025/2026)**, focado em unir programação e cibersegurança para criar soluções seguras.Eu realmente acredito que, em um mundo com tanta tecnologia, proteger os dados e a privacidade das pessoas é muito importante – é cuidar do que é essencial para as pessoas e para as empresas.
 
