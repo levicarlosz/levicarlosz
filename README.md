@@ -5,8 +5,8 @@
 ## 📊 Estatísticas do GitHub
 
 <div>
-  <img  height="190em" src="https://github-readme-stats.vercel.app/api?username=levicarlosz&show_icons=true&theme=nord&hide_border=true&include_all_commits=true"/>
-  <img  height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=levicarlosz&theme=nord&hide_border=true"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=levicarlosz&show_icons=true&theme=nord&hide_border=true&include_all_commits=true"/>
+  <img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=levicarlosz&theme=nord&hide_border=true"/>
 </div>
 <div>
 <img src="https://github-profile-trophy.vercel.app/?username=levicarlosz&theme=nord&column=8&margin-w=8&margin-h=8&no-frame=true" alt="Troféus do GitHub de Levi Carlos (levicarlosz)"/>
