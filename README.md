@@ -2,7 +2,7 @@
 
 ## 🐧 Levi Carlos
 
-👋 Prazer sou Levi, um estudante de **Segurança da Informação**, focado em unir programação e cibersegurança para criar soluções seguras.Realmente acredito que, em um mundo com tanta tecnologia, proteger os dados, a privacidade e garantir a segurança das pessoas é muito importante – é cuidar do que é essencial para as pessoas e para as empresas.
+👋 Prazer sou Levi, um estudante de **Segurança da Informação**, focado em unir programação e cibersegurança para criar soluções seguras. Realmente acredito que, em um mundo com tanta tecnologia, proteger os dados, a privacidade e garantir a segurança das pessoas é muito importante – é cuidar do que é essencial para as pessoas e para as empresas.
 
 [![Instagram Badge](https://img.shields.io/badge/levicarlosz-121d2f?style=flat-square&logo=instagram&logoColor=1f6feb)](https://instagram.com/levicarlosz)
 [![Linkedin Badge](https://img.shields.io/badge/-levicarlosz-121d2f?style=flat-square&logo=invision&logoColor=1f6feb&link=https://www.linkedin.com/in/levicarlos/)](https://www.linkedin.com/in/levicarlos/) 
@@ -24,7 +24,7 @@
 - **Ethical Hacking & Análise de Vulnerabilidades**: Kali Linux, Nmap, Metasploit, Shell Script  
 - **Segurança de Redes**: Firewalls, Hardening, Wireshark, Linux Security  
 - **Segurança da Informação**: LGPD, ISO 27001, OWASP Top 10, NIST Framework  
-- **Desenvolvimento Seguro**: Python, JavaScript, Java, Node.js, SQL, NoSQL, API Security  
+- **Desenvolvimento Seguro**: Python, JavaScript, Node.js, SQL, NoSQL, API Security  
 - **Automação & Testes**: Selenium, Puppeteer, CI/CD, Testes Unitários  
 - **Ferramentas & Metodologias**: Git, Scrum, Kanban  
 
@@ -44,6 +44,6 @@
 
 ## 🌱 Atualmente Aprendendo
 
-- Hardening, algoritmos avançados e segurança de redes.  
+- Hardening e segurança de redes.  
 - Contribuindo com a comunidade **GDG Cloud Brasília**.
 
