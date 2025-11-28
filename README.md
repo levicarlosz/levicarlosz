@@ -2,20 +2,14 @@
 
 ## 🐧 Levi Carlos
 
-👋 Prazer sou Levi, um estudante de **Segurança da Informação**, focado em unir programação e cibersegurança para criar soluções seguras. Realmente acredito que, em um mundo com tanta tecnologia, proteger os dados, a privacidade e garantir a segurança das pessoas é muito importante – é cuidar do que é essencial para as pessoas e para as empresas.
+Sou apaixonado por **Cibersegurança** e Infraestrutura. Atualmente atuo como Estagiário na **Secretaria do Estado da Mulher do DF**, implementando soluções de monitoramento e suporte. Tenho experiência prática em Ethical Hacking, análise de vulnerabilidades e defesa cibernética.
+
+* 🏆 **Top 6%** no [TryHackMe](https://tryhackme.com/p/levicarlos).
+* 🚀 **DIO Campus Expert** e voluntário ativo em comunidades tech (BlackBox Meeting, Campus Party, Hive Connect).
+* 🎓 Cursando **Tecnólogo em Segurança da Informação** na UNICSUL.
 
 [![Linkedin Badge](https://img.shields.io/badge/-levicarlosz-121d2f?style=flat-square&logo=invision&logoColor=1f6feb&link=https://www.linkedin.com/in/levicarlos/)](https://www.linkedin.com/in/levicarlos/) 
 [![Gmail Badge](https://img.shields.io/badge/-olevicarlos.dev@gmail.com-121d2f?style=flat-square&logo=Gmail&logoColor=1f6feb&link=mailto:olevicarlos.dev@gmail.com)](mailto:olevicarlos.dev@gmail.com)
-
-## 📊 Estatísticas do GitHub
-
-<div>
-  <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=levicarlosz&show_icons=true&theme=nord&short_numbers=true&border_color=3D444D&border=3D444D&bg_color=EB545400&include_all_commits=true"/>
-  <img  height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=levicarlosz&theme=nord&locale=pt_BR&short_numbers=true&stroke=3D444D&border=3D444D&background=EB545400"/>
-</div>
-<div>
-<img src="https://github-profile-trophy.vercel.app/?username=levicarlosz&theme=nord&column=8&margin-w=8&margin-h=8&no-frame=true&no-bg=true" alt="Troféus do GitHub de Levi Carlos (levicarlosz)"/>
-</div>
 
 
 ## 🛠️ Habilidades
