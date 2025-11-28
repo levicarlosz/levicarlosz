@@ -2,7 +2,7 @@
 
 ## 🐧 Levi Carlos
 
-Sou apaixonado por **Cibersegurança** e Infraestrutura. Atualmente atuo como Estagiário na **Secretaria do Estado da Mulher do DF**, implementando soluções de monitoramento e suporte. Tenho experiência prática em Ethical Hacking, análise de vulnerabilidades e defesa cibernética.
+Sou apaixonado por **Cibersegurança** e Infraestrutura. Atualmente atuo na **CECyber**. Tenho experiência prática em Ethical Hacking, análise de vulnerabilidades e defesa cibernética.
 
 * 🏆 **Top 6%** no [TryHackMe](https://tryhackme.com/p/levicarlos).
 * 🚀 **DIO Campus Expert** e voluntário ativo em comunidades tech (BlackBox Meeting, Campus Party, Hive Connect).
